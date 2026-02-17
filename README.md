@@ -2,8 +2,6 @@
 
 <img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" width="120" align="right"/>
 
-<!img src="https://media1.tenor.com/m/_cIbOsCtx_sAAAAC/reze-chainsaw-man.gif" width="220" align="right"/>
-
 computer science @ university of guelph  
 machine learning • bioinformatics • backend systems • blockchain  
 
