@@ -1,6 +1,6 @@
 # tami ⋆
 
-<img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" width="120" align="right"/>
+<img src="https://media.tenor.com/coR26JrE0cYAAAAi/kimetsu-no-yaiba-demon-slayer.gif" width="100" align="right"/>
 
 computer science @ university of guelph  
 machine learning • bioinformatics • backend systems • blockchain  
