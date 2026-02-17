@@ -1,6 +1,6 @@
-# tami ⋆
+# tami 
 
-<img src="https://media1.tenor.com/m/_cIbOsCtx_sAAAAC/reze-chainsaw-man.gif" width="350" align="right"/>
+<img src="https://media1.tenor.com/m/_cIbOsCtx_sAAAAC/reze-chainsaw-man.gif" width="280" align="right"/>
 
 computer science @ university of guelph  
 machine learning • bioinformatics • backend systems • blockchain  
@@ -9,7 +9,6 @@ currently benchmarking alphafold models with topological deep learning
 and building containerized autograders for the courses i TA  
 
 published researcher · nserc award · president of uofg's computing society  
-google best ai hack · uber hackathon finalist · nasa spaceapps global nominee  
 
 [website](https://mtameem.com) · [linkedin](https://linkedin.com/in/mtameem) · [email](mailto:mtameem.mughal@gmail.com)
 
