@@ -19,10 +19,10 @@ published researcher · nserc award · president of uofg's computing society
 | project | what it does | stack |
 |---|---|---|
 | [**baymax**](https://github.com/M-Tameem/baymax) | clinical decision support — detects drug interactions from FHIR R4 records using biomedical embeddings + LLM reasoning | sapbert · fastapi · react · docker |
-| [**mayday**](https://github.com/M-Tameem/mayday) | **google best ai hack** — ai emergency dispatch that compresses 911 call intake from 6min to 15s | flask · roberta · bart · twilio · gcp |
-| [**orgberrychain**](https://github.com/M-Tameem/strawbchain) | blockchain food traceability - immutable supply chain tracking with RBAC and regulatory compliance. **presented poster at ai4food 2025**.| hyperledger fabric · go · react · next.js |
-| [**cfia**](https://github.com/M-Tameem/cfia) | food recall analytics — brand risk clustering + severity prediction across 9,700+ records | distilbert · scikit-learn · networkx · streamlit |
-| [**smart**](https://github.com/M-Tameem/SMART) | **uber hackathon finalist** — drug toxicity classifier, dual-path neural net on tox21 benchmark | keras · rdkit · streamlit |
+| [**mayday**](https://github.com/M-Tameem/mayday) | 🏆 *google best ai hack* — ai emergency dispatch that compresses 911 call intake from 6min to 15s | flask · roberta · bart · twilio · gcp |
+| [**orgberrychain**](https://github.com/M-Tameem/orgberrychain) | blockchain food traceability — immutable supply chain tracking with RBAC and regulatory compliance · *presented at ai4food 2025* | hyperledger fabric · go · react · next.js |
+| [**food-recall-analytics**](https://github.com/M-Tameem/food-recall-ML-analytics) | food recall analytics — brand risk clustering + severity prediction across 9,700+ records | distilbert · scikit-learn · networkx · streamlit |
+| [**smart**](https://github.com/M-Tameem/SMART) | 🏆 *uber hackathon finalist* — drug toxicity classifier, dual-path neural net on tox21 benchmark | keras · rdkit · streamlit |
 
 ---
 
