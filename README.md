@@ -8,7 +8,7 @@ machine learning • bioinformatics • blockchain • backend systems
 currently benchmarking alphafold models with topological deep learning  
 and building containerized autograders for the courses i TA  
 
-undergraduate machine learning researcher · NSERC award recipient · president of uofg's computing society
+undergraduate ml researcher · NSERC award · president of uofg's computing society
 
 [website](https://mtameem.com) · [linkedin](https://linkedin.com/in/mtameem) · [email](mailto:mtameem.mughal@gmail.com)
 
