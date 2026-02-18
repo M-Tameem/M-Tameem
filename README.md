@@ -3,12 +3,12 @@
 <img src="https://media1.tenor.com/m/_cIbOsCtx_sAAAAC/reze-chainsaw-man.gif" width="280" align="right"/>
 
 computer science @ university of guelph  
-machine learning • bioinformatics • backend systems • blockchain  
+machine learning • bioinformatics • blockchain • backend systems  
 
 currently benchmarking alphafold models with topological deep learning  
 and building containerized autograders for the courses i TA  
 
-published researcher · nserc award · president of uofg's computing society  
+undergraduate machine learning researcher · NSERC award recipient · president of uofg's computing society
 
 [website](https://mtameem.com) · [linkedin](https://linkedin.com/in/mtameem) · [email](mailto:mtameem.mughal@gmail.com)
 
