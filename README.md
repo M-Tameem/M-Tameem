@@ -5,8 +5,9 @@
 computer science @ university of guelph  
 machine learning • bioinformatics • blockchain • backend systems
 
-currently benchmarking alphafold 2 vs. alphafold 3 with topological deep learning on protein binding affinity  
-and building containerized autograders for the courses i TA
+currently benchmarking alphafold 2 vs. alphafold 3 with topological deep learning  
+on protein binding affinity and building 
+containerized autograders for the courses i TA
 
 undergraduate ml researcher · NSERC award · president of uofg's computing society
 
