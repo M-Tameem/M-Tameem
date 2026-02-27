@@ -1,7 +1,5 @@
 # tami
 
-<img src="https://media1.tenor.com/m/_cIbOsCtx_sAAAAC/reze-chainsaw-man.gif" width="280" align="right"/>
-
 computer science @ university of guelph  
 machine learning • bioinformatics • blockchain • backend systems
 
